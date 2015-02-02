@@ -1,0 +1,68 @@
+[
+    {
+        "title": "American Sniper",
+        "plot": "Navy SEAL sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend.",
+        "rating": 5,
+        "screenings": [
+            "30 min",
+            "1 hour",
+            "2 hours"
+        ],
+        "background_image": "../data/american_sniper.jpg"
+    },
+    {
+        "title": "Selma",
+        "plot": "A chronicle of Martin Luther King's campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama in 1965.",
+        "rating": 5,
+        "screenings": [
+            "30 min",
+            "1 hour",
+            "2 hours"
+        ],
+        "background_image": "../data/selma.jpg"
+    },
+    {
+        "title": "Taken 3",
+        "plot": "As Ex-government operative Bryan Mills is tracked and pursued, Mills brings out his particular set of skills to find the true killer and clear his name.",
+        "rating": 2,
+        "screenings": [
+            "30 min",
+            "1 hour",
+            "2 hours"
+        ],
+        "background_image": "../data/taken_3.jpg"
+    },
+    {
+        "title": "Birdman",
+        "plot": "A washed up actor, who once played an iconic superhero, battles his ego and attempts to recover his family, his career and himself in the days leading up to the opening of a Broadway play.",
+        "rating": 5,
+        "screenings": [
+            "30 min",
+            "1 hour",
+            "2 hours"
+        ],
+        "background_image": "../data/birdman.jpg"
+    },
+    {
+        "title": "Boyhood",
+        "plot": "The life of a young man, Mason, from age 5 to age 18.",
+        "rating": 5,
+        "screenings": [
+            "30 min",
+            "1 hour",
+            "2 hours"
+        ],
+        "background_image": "../data/Boyhood.jpg"
+    },
+    {
+        "title": "Hobbit: Battle of the Five Armies",
+        "plot": "Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness. ",
+        "rating": 5,
+        "screenings": [
+            "30 min",
+            "1 hour",
+            "2 hours"
+        ],
+        "background_image":  "../data/hobbit.jpg"
+    }
+]

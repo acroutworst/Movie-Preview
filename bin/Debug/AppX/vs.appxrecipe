@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADAM</Machine>
+    <WindowsUser>jcrou_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e9619437-b3ac-4eb1-a267-1d231a0221ef</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>ADB9C58861E178D0456E6EF18646A35440F6912A5CBC56EF04D75E5E30F26163</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e9619437-b3ac-4eb1-a267-1d231a0221ef_1.0.0.0_neutral__apcedynxghygp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e9619437-b3ac-4eb1-a267-1d231a0221ef_apcedynxghygp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e9619437-b3ac-4eb1-a267-1d231a0221ef</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jcrou_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-18T09:08:05.323</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\App_Readme\Handlebarsjs_LICENSE">
+      <PackagePath>App_Readme\Handlebarsjs_LICENSE</PackagePath>
+      <Modified>2015-01-18T04:00:08.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\App_Readme\Handlebarsjs_README.md">
+      <PackagePath>App_Readme\Handlebarsjs_README.md</PackagePath>
+      <Modified>2015-01-18T04:00:07.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\css\grid.min.css">
+      <PackagePath>css\grid.min.css</PackagePath>
+      <Modified>2014-07-11T02:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\css\semantic.min.css">
+      <PackagePath>css\semantic.min.css</PackagePath>
+      <Modified>2015-01-18T05:57:16.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\css\superslides.css">
+      <PackagePath>css\superslides.css</PackagePath>
+      <Modified>2013-07-10T15:04:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-02-02T05:31:47.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\css\jquery.animate-enhanced.min.js">
+      <PackagePath>css\jquery.animate-enhanced.min.js</PackagePath>
+      <Modified>2015-01-18T00:43:48.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\js\App.js">
+      <PackagePath>js\App.js</PackagePath>
+      <Modified>2015-01-18T06:16:06.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-03-14T10:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\js\jquery-2.1.3.js">
+      <PackagePath>js\jquery-2.1.3.js</PackagePath>
+      <Modified>2015-01-18T00:34:33.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\js\jquery.superslides.min.js">
+      <PackagePath>js\jquery.superslides.min.js</PackagePath>
+      <Modified>2013-07-10T15:04:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\js\semantic.min.js">
+      <PackagePath>js\semantic.min.js</PackagePath>
+      <Modified>2014-07-11T02:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.amd.js">
+      <PackagePath>Scripts\handlebars.amd.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.amd.min.js">
+      <PackagePath>Scripts\handlebars.amd.min.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.js">
+      <PackagePath>Scripts\handlebars.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.min.js">
+      <PackagePath>Scripts\handlebars.min.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.runtime.amd.js">
+      <PackagePath>Scripts\handlebars.runtime.amd.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.runtime.amd.min.js">
+      <PackagePath>Scripts\handlebars.runtime.amd.min.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.runtime.js">
+      <PackagePath>Scripts\handlebars.runtime.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\handlebars.runtime.min.js">
+      <PackagePath>Scripts\handlebars.runtime.min.js</PackagePath>
+      <Modified>2015-01-18T04:00:07.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\jquery-2.1.3.intellisense.js">
+      <PackagePath>Scripts\jquery-2.1.3.intellisense.js</PackagePath>
+      <Modified>2015-01-18T00:34:32.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\jquery-2.1.3.js">
+      <PackagePath>Scripts\jquery-2.1.3.js</PackagePath>
+      <Modified>2015-01-18T00:34:33.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\jquery-2.1.3.min.js">
+      <PackagePath>Scripts\jquery-2.1.3.min.js</PackagePath>
+      <Modified>2015-01-18T00:34:33.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\american_sniper.jpg">
+      <PackagePath>data\american_sniper.jpg</PackagePath>
+      <Modified>2015-01-18T05:39:42.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\birdman.jpg">
+      <PackagePath>data\birdman.jpg</PackagePath>
+      <Modified>2015-01-18T06:06:51.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\black.jpg">
+      <PackagePath>data\black.jpg</PackagePath>
+      <Modified>2015-01-18T09:02:38.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\Boyhood.jpg">
+      <PackagePath>data\Boyhood.jpg</PackagePath>
+      <Modified>2015-01-18T08:35:24.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\monkey.jpg">
+      <PackagePath>data\monkey.jpg</PackagePath>
+      <Modified>2015-01-18T09:00:22.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\seattle.jpg">
+      <PackagePath>data\seattle.jpg</PackagePath>
+      <Modified>2015-01-18T09:06:24.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\selma.jpg">
+      <PackagePath>data\selma.jpg</PackagePath>
+      <Modified>2015-01-18T06:00:30.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\taken_3.jpg">
+      <PackagePath>data\taken_3.jpg</PackagePath>
+      <Modified>2015-01-18T08:37:14.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\hobbit.jpg">
+      <PackagePath>data\hobbit.jpg</PackagePath>
+      <Modified>2015-01-18T08:36:22.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\data\test_data.json">
+      <PackagePath>data\test_data.json</PackagePath>
+      <Modified>2015-01-18T08:57:17.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-02T05:31:47.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\fonts\BebasNeue.otf">
+      <PackagePath>fonts\BebasNeue.otf</PackagePath>
+      <Modified>2012-02-29T16:06:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\fonts\icons.eot">
+      <PackagePath>fonts\icons.eot</PackagePath>
+      <Modified>2014-07-11T02:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\fonts\icons.woff">
+      <PackagePath>fonts\icons.woff</PackagePath>
+      <Modified>2014-07-11T02:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2015-01-18T04:50:49.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\Scripts\jquery-2.1.3.min.map">
+      <PackagePath>Scripts\jquery-2.1.3.min.map</PackagePath>
+      <Modified>2015-01-18T00:34:33.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\js\App.js.map">
+      <PackagePath>js\App.js.map</PackagePath>
+      <Modified>2015-01-18T06:16:06.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-18T09:08:05.176</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

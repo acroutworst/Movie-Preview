@@ -1,0 +1,15 @@
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bin\Debug\ReverseMap\resources.pri
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bin\Debug\AppxManifest.xml
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bin\Debug\MoviePreview.build.appxrecipe
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\priconfig.xml
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\priconfig.xml.intermediate
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\layout.resfiles
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\layout.resfiles.intermediate
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\resources.resfiles
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\resources.resfiles.intermediate
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\pri.resfiles
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\pri.resfiles.intermediate
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\qualifiers.txt
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\qualifiers.txt.intermediate
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jcrou_000\Documents\Visual Studio 2013\Projects\MoviePreview\MoviePreview\bld\Debug\ProjectArchitectures.txt

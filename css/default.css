@@ -1,0 +1,26 @@
+﻿body {
+}
+
+.ContentFormatting {
+	color: black;
+	left: 576px;
+	top: 414px;
+}
+
+@font-face{
+	font-family: 'Bebas';
+	src: url("/fonts/BebasNeue.otf") format('opentype');
+	}
+
+.plot {
+	font-family: 'Bebas';
+	font-size: 40px;
+}
+
+.screenings {
+	font-family: 'Bebas';
+	font-size: 30px;
+	padding-top: 0px;
+}
+
+
